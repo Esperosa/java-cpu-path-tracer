@@ -2,7 +2,7 @@
 
 Desktopový 3D editor a CPU renderer v čisté Javě 17 (Swing/AWT, bez externích knihoven): rasterový viewport, ray tracer a path tracer se SAH BVH, node editor materiálů a export obrázků i animací.
 
-Autor: Jiří Pelikán. Vzniklo jako semestrální projekt z počítačové grafiky (PGRF2).
+Autor: [Jiří Pelikán](https://jirkapelikan.cz/projekty/renderer/). Vzniklo jako semestrální projekt z počítačové grafiky (PGRF2).
 
 <table>
   <tr>
